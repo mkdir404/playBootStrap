@@ -1,0 +1,185 @@
+
+	@font-face{  
+  	font-family:'League_Gothic';  
+ 	src: url('../fonts/League_Gothic.otf'); 	
+ 	} 
+  
+
+	#img-post{
+		margin-right:40px;
+		border:4px solid #f1f1f1;
+	}
+
+	#works , #post-container{
+		margin-right:40px;
+		margin-top:20px;
+		font-size:16px;
+		text-align:justify;
+		font-weight:300;
+		letter-spacing:-0.02em;
+		word-spacing:-0.02em;
+		line-height:1.5em;
+		color:#111;
+	}
+
+	#title-post , #title-general{
+		margin-bottom:40px;
+		margin-left:38px;
+		margin-top:10px;
+	}
+
+	#title-post h1{
+		font:40px League_Gothic , helvetica , Arial, "MS Trebuchet", sans-serif ;
+		font-weight:300;
+		letter-spacing:-0.02em;
+		word-spacing:-0.02em;
+		line-height:1.5em;
+		font-weight:bold;
+		text-shadow: 0 1px 0 white
+	}
+
+	#date h1{
+		font-size:80px;
+	}
+
+	#date-group{
+		margin-top:-40px;
+	}
+
+	#readmore{
+		margin-top:20px;
+		margin-bottom:10px;
+	}
+
+	#day{
+		color:#111;
+		font-size:20px;
+		font-family: helvetica , Arial, "MS Trebuchet", sans-serif;
+
+		font-weight:bold;
+	}
+
+	#mon{
+		color:#333;
+		font-size:25;
+	}
+
+	#year{
+		 color:#ccc;
+	}
+
+	#search{
+		height:30px;
+	}
+
+	#container-page{
+			
+		/*-webkit-box-shadow: 2px 2px 5px #999;
+		-moz-box-shadow: 2px 2px 5px #999;
+		 box-shadow: 2px 2px 5px #999;
+		 filter: shadow(color=#999999, direction=135, strength=2);*/
+	}
+
+	#autor{
+		margin-top:25px;
+		margin-left:10px;
+		display:block;
+	}
+
+	#autor-pic{
+		border:3px solid #ccc;
+		width:50px;
+		margin-left:25px;
+		margin-bottom:10px;
+	}
+
+	#post{
+		margin-bottom:50px;
+		margin-top:15px;
+		border-top:1px solid #ccc;
+	}
+
+	#separa{
+		
+		 padding-top:14px;
+		 width:800px;
+		 clear:both;
+
+	}
+
+	#yo8bits{
+		
+		margin-right:auto;
+		bottom:35px;
+	}
+
+	#myCarousel{
+		border-top:1px solid #ccc;
+		padding-top:20px;
+		margin-top:-20px;
+	}
+
+
+	#myCarousel img {
+		border:8px solid #f1f1f1;
+	}
+
+	#tuto , #artic{
+		background-color:#111;
+		width:200px;
+		height:20px;
+		color:#fff;
+		font-size:15px;
+		text-align:center;
+		padding-top:2px;
+		cursor:pointer;
+		float:left;
+	}
+
+	#artic{
+		margin-left:25px;
+	}
+
+	#menu1 li {
+		background-color:#111;
+		width:200px;
+		height:20px;
+		color:#fff;
+		font-size:13px;
+		text-align:center;
+		padding-top:2px;
+		border:1px solid #fff;
+		cursor:pointer;
+	}
+
+	.display{
+		display:none;
+	}
+
+	#info-square img{
+		margin-left:8px;
+		margin-top:5px;
+		margin-bottom:10px;
+	}
+
+	#info-square span {
+		font-size:13px;
+		padding-top:20px;
+	}
+
+	#info-square{
+		padding:8px;
+		width:237 ;
+		height:150px;
+		border-right: 1px solid #DFDFDF;
+		border-left: 3px solid #F1F1F1;
+		border-bottom: 1px solid #DFDFDF;
+		float:left;
+		 background-color: #f1f1f1;
+ 		 background: -moz-linear-gradient(top, #f1f1f1 , #fff);
+		 background: -webkit-gradient(linear, 0 0, 0 100%, from(#f1f1f1),  to(#fff));
+	}
+
+
+
+
