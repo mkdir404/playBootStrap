@@ -6,7 +6,7 @@ just information about me.
 
 ## Try it:
 
-[gridClient](http://www.sabregmc.com/bootstrap/)
+[playBootStrap](http://www.sabregmc.com/bootstrap/)
 
 ## Source
 
