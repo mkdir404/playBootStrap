@@ -12,7 +12,7 @@ just information about me.
 
 *In this small project was implemented*
 ...
-BootTrap Framework
+BootStrap Framework
 
 ## Notes
 
